@@ -42,7 +42,7 @@ export default function Home() {
             <h2 className='text-5xl py-2 text-teal-600 font-medium md:tex-6xl'>Vaibhav Jaiswal</h2>
             <h3 className='text-2xl py-2 md:text-3xl dark:text-white'>Developer and designer.</h3>
             <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-white'>
-              Hello! I'm a web developer & currently workning at <span className='text-cyan-500 font-semibold'>Open Source Software Research and Development Center</span> as a Designer & Developer.
+              Hello! I am a web developer & currently workning at <span className='text-cyan-500 font-semibold'>Open Source Software Research and Development Center</span> as a Designer & Developer.
             </p>
           </div>
         </section>
